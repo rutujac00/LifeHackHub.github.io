@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  background-image: url(lifehack\ bg.jpeg);
+  background-repeat: repeat-y;
+  background-size: 100%;
+  font-family: cursive;
+}
+nav{
+  text-align: center; font-size: 100%;
+}
+h1{
+    color: rgb(1, 95, 1); font-family: cursive;
+font-size: 300%; text-align: center;
+font-weight: bold;
+text-transform: uppercase;
+  }
+  h2{
+    color: rgb(97, 150, 97);
+  }
+  h3{
+    color: rgb(109, 109, 141);
+  }
+  h4{
+    color:rgb(103, 156, 156)
+  }
+  *{
+    list-style-type: none;
+
+  }
+  footer{
+    text-align: center;
+  }
